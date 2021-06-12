@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.spring.persistence.TimeMapperTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-06-12T06:49:21" hostname="Joe.local" time="1.035">
+  <properties/>
+  <testcase name="testGetTime2" classname="com.spring.persistence.TimeMapperTests" time="0.922"/>
+  <testcase name="testGetTime" classname="com.spring.persistence.TimeMapperTests" time="0.11"/>
+  <system-out><![CDATA[INFO  TimeMapperTests:29 - getTime2
+INFO  TimeMapperTests:30 - 2021-06-12 15:49:22
+INFO  TimeMapperTests:23 - com.sun.proxy.$Proxy26
+INFO  TimeMapperTests:24 - 2021-06-12 15:49:22
+]]></system-out>
+  <system-err><![CDATA[Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+]]></system-err>
+</testsuite>

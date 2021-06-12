@@ -1,0 +1,6 @@
+com/spring/persistence/JDBCTests.java
+ com.spring.persistence.JDBCTests
+com/spring/persistence/DataSourceTests.java
+ com.spring.persistence.DataSourceTests
+com/spring/persistence/TimeMapperTests.java
+ com.spring.persistence.TimeMapperTests
